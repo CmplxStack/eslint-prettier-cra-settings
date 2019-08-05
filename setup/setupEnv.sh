@@ -19,6 +19,9 @@ eslint-config-prettier eslint-config-react-app eslint-plugin-prettier \
 prettier @types/prettier @types/eslint @types/eslint-plugin-prettier \
 enzyme enzyme-adapter-react-16 react-test-renderer jest-enzyme \
 @types/enzyme @types/enzyme-adapter-react-16 @types/react-test-renderer \
-@types/jest @types/node @types/react @types/react-dom
+@types/jest @types/node @types/react @types/react-dom 
+
+yarn add @material-ui/core @material-ui/icons axios \
+@typescript-eslint/eslint-plugin @typescript/parser
 
 echo "🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁"
